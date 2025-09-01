@@ -1,28 +1,24 @@
 # 🧠 Jogo da Memória
 
-![Capa do Projeto](./assets/capa-jogo-da-memoria.png)
+## 📸 Prévia
+
+![Preview do Jogo](/assets/capa.png)
 
 Um simples e divertido **Jogo da Memória** desenvolvido com **HTML5**, **CSS3** e **JavaScript**, com foco em lógica de programação, manipulação do DOM e interatividade no navegador — sem o uso de frameworks ou bibliotecas externas.
 
 ## 🚀 Acesse o Jogo
 
-👉 [Clique aqui para jogar agora](https://seu-usuario.github.io/jogo-da-memoria/)
+👉 [Clique aqui para jogar agora](https://rayy-main.github.io/jogo-memoria/)
 
 ---
 
 ## 🕹️ Sobre o Jogo
 
-O objetivo do jogo é encontrar todos os pares de cartas iguais no menor tempo e com o menor número de jogadas possível. Cada vez que o jogo inicia, as cartas são embaralhadas aleatoriamente.
+O objetivo do jogo é encontrar todos os pares de cartas iguais com o menor numero de tentativas possível. Cada vez que o jogo inicia, as cartas são embaralhadas aleatoriamente.
 
 - Jogo totalmente responsivo
 - Interface intuitiva e leve
 - Lógica simples e divertida
-
----
-
-## 📸 Prévia
-
-![GIF de demonstração do jogo](./assets/preview.gif)
 
 ---
 
@@ -42,6 +38,21 @@ jogo-da-memoria/
 ├── style.css
 ├── script.js
 ├── assets/
-│   ├── capa-jogo-da-memoria.png
+│   ├── capa.png
+│   ├── lines.svg
+│   ├── logo.svg
 │   ├── preview.gif
-│   └── imagens-das-cartas/
+```
+
+
+## ⚙️ Funcionalidades
+
+- Embaralhamento automático das cartas a cada nova partida
+- Verificação de pares corretos
+- Animações de flip e delay de cartas
+- Contador de tentativas
+- Botão de reiniciar partida
+- Layout adaptável para dispositivos móveis
+
+## 💁🏻‍♀️ Autor
+Desenvolvido com ❤️ por Rayanne Vieira
