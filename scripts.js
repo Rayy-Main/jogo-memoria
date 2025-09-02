@@ -20,8 +20,8 @@ const cardItems = [
   { id: 12, content: "🎯", matched: false },
   { id: 13, content: "🎮", matched: false },
   { id: 14, content: "🎮", matched: false },
-  { id: 15, content: "🏖", matched: false },
-  { id: 16, content: "🏖", matched: false },
+  { id: 15, content: "👽", matched: false },
+  { id: 16, content: "👽", matched: false },
 
 ]
 
